@@ -81,8 +81,14 @@ Similarly, while providing feedback, I aim to be constructive and encouraging, e
 
 
 What scheduling constraints do you have? What are your preferred work times outside of normal school hours?
-In terms of schedule, I prefer to work during regular business hours, but I am also adaptable and can work occasional late or weekend shifts if necessary. Clear communication and forward preparation can help to reduce schedule disputes and accommodate everyone's desired work hours.
+In terms of schedule, I prefer to work during regular business hours, but I am also adaptable and can work occasional late or weekend shifts if necessary. Clear communication and forward
+preparation can help to reduce schedule disputes and accommodate everyone's desired work hours.
 
+conditionals
+
+
+
+Functions 
 
 Calendaring 
 1. Because I'm on ET, I'd like to be able to pre-teach the upcoming lesson before it is given. I want to devote two hours every morning.
@@ -90,6 +96,33 @@ Calendaring
 3. I'd like to spend the majority of my weekend on projects.
 4. An hour at the gym every day and hours on weekends to pursue my hobbies. 
 5. I want to spend my weekends being productive without pushing myself to burnout.
+
+Reflections on assignment 
+
+This process is definitely slower than starting by writing code. Why might this be helpful,
+ //even though it takes more time?
+Clarifying the Problem: Pseudocoding requires me to break down the problem into smaller pieces, which might help understand what needs to be done and how to approach it.
+Pseudocoding helps outline the structure of my code and organize  thoughts before I start creating actual code.
+It enables you to think about the logic and flow of your program.
+Identifying Edge Cases: Pseudocoding encourages to examine many scenarios and edge cases that may need to be addressed in code,
+ensuring that you do not ignore critical components of the problem.
+Collaboration: Pseudocode is useful as a communication tool, particularly in a collaborative environment.
+It enables team members to discuss and comprehend the suggested solution prior to implementation, resulting in improved collaboration and fewer misunderstandings.
+Error Reduction: By using pseudocoding, you can identify potential difficulties or logical faults in your approach early on, 
+lowering the risk of errors and making debugging easier during implementation.
+
+
+Some pseudocoding is more helpful when we sit down to start writing the actual code. 
+//What are some characteristics of helpful pseudocode
+Clear and concise: Pseudocode should be written in simple language that is easy to understand. It should express the solution's logic and steps clearly and concisely.
+Structured: Pseudocode should be apparent in structure, with processes structured logically and hierarchically. 
+Using indentation or bullet points can help to describe the algorithm's flow.
+Comments: Including comments in pseudocode can help clarify the goal of each step and provide context for future implementation.
+Modular: Breaking down the problem into smaller, more manageable tasks or subroutines makes the pseudocode easier to understand and implement.
+Focused on Logic: Instead of specific syntax or implementation specifics, pseudocode should focus on the solution's logic.
+It should state what has to be done, not how to do it in a certain programming language.
+
+
 
 Final Reflections
 
@@ -103,6 +136,5 @@ What is one thing you want to remember as you start this new journey to become a
 Learn and practice and mostly know programming laungage 
 
 Finally, share some gratitude for the people who were most supportive to you throughout this Mod 0 experience!
-I wanted to take a moment to thank you for being there for me, special thanks to Laura and Reid
 
 
