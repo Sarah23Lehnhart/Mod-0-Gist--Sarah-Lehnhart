@@ -86,9 +86,29 @@ preparation can help to reduce schedule disputes and accommodate everyone's desi
 
 conditionals
 
+1.	Comparison Operators: seem to understand them quite well, as I've used them effectively in my code challenges.
+I feel confident in my understanding and application of these operators.
+2.	Logical Operators: Similarly, I have utilized logical operators effectively in my code. I feel comfortable with them.
+3.	If Statements: Based on your code challenges and explanations, I seem to have a good grasp of how to use if statements to control the flow of your program.
+4.	Time Spent:  based on the complexity of the challenges, spending around 30 minutes to an hour seems reasonable 
+5.	Areas for Improvement: It's always good to keep practicing and reinforcing your understanding. 
+I could explore more complex scenarios with conditional statements and operators. I might also consider looking into other control flow structures like loops.
+6. 2.	Getting Answers to Questions: So far none but If I have any lingering questions or concepts I'd like to explore further, I can always ask my instructor or search for resources online. 
+There are plenty of tutorials, documentation, and forums where I can find explanations and examples.
 
 
 Functions 
+
+•	Reflect on your learning and work today. What are you most proud of?
+Today, I'm proud of how we solved numerous coding issues and studied different elements of JavaScript, from basic grammar to effective use of built-in methods.
+I'm particularly pleased with how we organized our code and provided detailed explanations for each solution.
+
+•	In your own words, why are functions a powerful tool in our applications?
+Functions are an effective tool in our applications because they allow us to encapsulate reusable code, making our programs more modular and easy to maintain.
+By designing functions, we may split down difficult activities into smaller, more manageable portions, improving readability and reducing repetition. 
+Functions also enhance code reuse and scalability because they can be called several times with varied arguments, making our code more versatile and adaptive to various contexts. 
+Overall, functions help us organize and structure our code, resulting in more efficient and maintainable programs.
+
 
 Calendaring 
 1. Because I'm on ET, I'd like to be able to pre-teach the upcoming lesson before it is given. I want to devote two hours every morning.
@@ -96,6 +116,7 @@ Calendaring
 3. I'd like to spend the majority of my weekend on projects.
 4. An hour at the gym every day and hours on weekends to pursue my hobbies. 
 5. I want to spend my weekends being productive without pushing myself to burnout.
+
 
 Reflections on assignment 
 
@@ -121,6 +142,22 @@ Comments: Including comments in pseudocode can help clarify the goal of each ste
 Modular: Breaking down the problem into smaller, more manageable tasks or subroutines makes the pseudocode easier to understand and implement.
 Focused on Logic: Instead of specific syntax or implementation specifics, pseudocode should focus on the solution's logic.
 It should state what has to be done, not how to do it in a certain programming language.
+
+Beyond Mod 0 Plan
+
+1. To practice coding, I plan to set aside 2-3 hours every workday and 4-5 hours on weekends. This will entail working on coding problems, 
+completing small projects, and reviewing topics from pre-work materials.
+2. To emphasize coding practice and maintain consistency, I will arrange certain time intervals on my calendar each day.
+3. To maintain a healthy work-life balance and recharge, I plan to schedule frequent quality time with family and friends in the evenings and weekends.
+4. To maintain a clean and organized environment for studying and working, I plan to spend one weekend day deep cleaning my living area.
+5. To work from home, I will prepare a comfortable and ergonomic environment by arranging my desk, adjusting lighting, and assuring suitable equipment (e.g. chair, monitor, keyboard).
+6. Commitment to Self-care: I will emphasize self-care habits like exercise, journaling, and meditation to reduce stress and maintain mental health.
+In addition, I will commit to attending treatment sessions on a regular basis.
+7. Schedule non-urgent appointments ahead of Mod 1 to minimize conflicts during the program. Examples include dentist visits, dog grooming, and personal errands.
+8. To stay energized during study sessions, I organize my food shopping and meal preparation ahead of time to ensure nutritious snacks and meals are available.
+9. To develop a supportive community before Mod 1, I plan to schedule regular Zoom calls with classmates to discuss tough ideas and code together.
+This will also allow us to get to know one other better and build a sense of community.
+
 
 
 
